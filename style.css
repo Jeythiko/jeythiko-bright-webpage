@@ -140,7 +140,7 @@ img{
     font-size: 18px;
     font-family: inherit;
     color: rgb(216, 240, 240);
-     background: linear-gradient(rgb(156, 229, 223), rgb(225, 220, 225));
+   background: linear-gradient(rgb(176, 229, 225), rgb(225, 220, 225));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
