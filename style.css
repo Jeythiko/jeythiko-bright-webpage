@@ -11,6 +11,9 @@
     background-attachment: fixed;
     font-size: 16px;
 }
+    p{
+        font-size: 16px;
+    }
 }
 
 /* Tablets */
@@ -138,7 +141,6 @@ background:linear-gradient(rgb(0, 0, 0), rgb(3, 3, 7)) ;
     color: rgb(220, 234, 234);
 }
 .heading p{
-    text-align: center;
     font-size: 18px;
     font-family: inherit;
     background: linear-gradient(rgb(198, 231, 228), rgb(225, 220, 225));
