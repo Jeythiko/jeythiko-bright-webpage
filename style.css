@@ -10,7 +10,7 @@
     background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-size: 12px;
+    font-size: 14px;
 }
 }
 
@@ -19,7 +19,7 @@
     background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-size: 12px;
+    font-size: 14px;
 }}
 
 /* Laptops */
@@ -27,7 +27,7 @@
     background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    font-size: 12px;
+    font-size: 16px;
 }}
 
 /* Large desktops */
@@ -40,7 +40,7 @@
     font-size: 20px;
 }}
 .nav-bar{
-  background:linear-gradient(rgb(17, 17, 23), rgb(3, 3, 7)) ;
+background:linear-gradient(rgb(0, 0, 0), rgb(3, 3, 7)) ;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
