@@ -153,7 +153,7 @@
 .about-section{
     margin: auto;
     height: auto;
-    margin-left: 2px;
+    margin-left: 1px;
 }
 .about-section p{
    background: linear-gradient(rgb(10, 9, 9), rgb(3, 19, 19));
