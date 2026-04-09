@@ -4,6 +4,9 @@
     font-family: 'Times New Roman', Times, serif;
     color:aliceblue;
 }
+html{
+    scroll-behavior: smooth;
+}
 /* Mobile phones */
 @media (max-width: 480px){
     body{
