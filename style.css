@@ -28,7 +28,6 @@ html{
     background-attachment: fixed;
     font-size: 16px;
 }}
-
 /* Laptops */
 @media (max-width: 1024px) {  body{
     background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
@@ -36,7 +35,6 @@ html{
     background-attachment: fixed;
     font-size: 16px;
 }}
-
 /* Large desktops */
 @media (min-width: 1201px) {  body{
     background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
@@ -44,7 +42,11 @@ html{
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-size: 20px;
-}}
+}
+#about h2{
+    font-size: 35px;
+}
+}
 .nav-bar{
   background:linear-gradient(rgb(27, 22, 22), rgb(3, 3, 7)) ;
     background-repeat: no-repeat;
@@ -78,17 +80,7 @@ html{
     transition: 0.5s;
 
 }
-/*
-.heading h2{
-    background: linear-gradient(rgb(12, 188, 174), rgb(115, 220, 223));
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    transform: translateX('50%');
-    text-align: center;
-    font-size: 22px;
-}
-    */
+
 .contents img{
     width: 180px;
     height: 180px;
@@ -119,7 +111,7 @@ html{
     color: #C9D1D9;
     padding: 10px 20px;
     border: #30bcce 1px solid;
-    
+
 }
 .contact-btn:hover{
     background: #08cde7;
@@ -159,12 +151,12 @@ html{
     height: auto;
 }
 .about-section p{
-   background: linear-gradient(rgb(10, 9, 9), rgb(3, 19, 19));
-   background-position: fill;
    padding: 22px;
-   border-color: #0b2733;
+   border-color: #e0e8ec;
    border-style: solid;
    border-width: 2px;
+   color:#030514;
+   background: #e0e7e6;
 
 }
 .about-section h2{
@@ -182,11 +174,8 @@ html{
     margin-left: 0;
     border-radius: 50%;
 }
-hr{
-    border: 0;
-    height: 1px;
-    background: #bbc8d6;
-}
+
 #about{
-    background: #efeaff;
+ background: #E4F1FF;
+ padding: 35px;
 }
