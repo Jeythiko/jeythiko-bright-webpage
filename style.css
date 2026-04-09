@@ -48,8 +48,7 @@ html{
 }
 }
 .nav-bar{
-   background: #E4F1FF;
-    background-repeat: no-repeat;
+  background: #14274d;
     background-attachment: fixed;
     background-size: cover;
     margin-bottom: 16px;
@@ -61,11 +60,11 @@ html{
     position: sticky;
     top: 0;
     padding: 20px;
-    box-shadow: rgb(41, 46, 52) 0px 3px 5px;
-    border-bottom: rgb(22, 121, 121) 1px solid;
+    box-shadow: rgb(51, 59, 68) 0px 3px 5px;
+    border-bottom: rgb(19, 83, 83) 1px solid;
 }
 .nav-bar li, a{
-    color: black;
+    color: #E4F1FF;
     text-decoration: none;
     font-size: 20px;
     font-family: Arial, sans-serif;
