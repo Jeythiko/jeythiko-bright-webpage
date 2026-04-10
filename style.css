@@ -16,6 +16,16 @@ html{
     background-attachment: fixed;
     font-size: 16px;
 }
+.edu-bg h2 {
+    text-align: center;
+}
+.edu-bg img {
+    width: 700px;
+    height: 700px;
+    height: auto;
+    align-items: center;
+    margin-left: 30px;
+}
 .about-section p{
     font-size: 16px
     }
@@ -45,6 +55,17 @@ html{
 }
 #about h2{
     font-size: 35px;
+    text-align: center;
+}
+#education h2 {
+   font-size: 35px;
+   text-align: center;
+}
+.edu-bg img {
+    width: 700px;
+    height: 400px;
+    align-items: center;
+    margin-left: 30px;
 }
 }
 .nav-bar{
@@ -162,9 +183,18 @@ html{
 .about-section h2{
     text-align: center;
     font-size: 28px;
-    font-family: inherit;
+     font-family: "Lato", helvetica, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.463rem;
+    font-weight: 400;
     font-weight: 900;
     color: inherit;
+}
+.edu-bg h2{
+      font-family: "Lato", helvetica, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.463rem;
+    font-weight: 900;
 }
 
 .logo img{
@@ -175,7 +205,38 @@ html{
     border-radius: 50%;
 }
 
-#about{
+#about .about-section{
  background: #d7e5f3;
- padding: 30px;
+ padding: 20px;
+ box-shadow: #0f1011 0px 4px 8px;
 }
+
+#about .edu-bg{
+padding: 20px;
+box-shadow: #0f1011 0px 4px 8px;
+background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
+
+}
+.edu-bg p{
+    color:white;
+    font-family: "Lato", helvetica, sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.463rem;
+    font-weight: 400;
+    
+}
+.edu-bg img{
+    border-color: #122f35;
+    border-width: 2px;
+    border-style: solid;
+    -webkit-box-shadow: inset -1px 3px 8px 5px #6595cd, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #728293, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+.edu-bg p{
+    background-color: #042147;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-shadow: #153c63 0px 4px 8px;
+}
+
