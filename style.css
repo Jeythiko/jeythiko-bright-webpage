@@ -234,10 +234,10 @@ background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
     box-shadow: inset -1px 3px 8px 5px #728293, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);
 }
 .edu-bg p{
-    background-color: #042147;
     padding: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    box-shadow: #153c63 0px 4px 8px;
+    box-shadow: #1f3449 0px 4px 8px;
+    border-color: #363c42;
 }
 
