@@ -190,9 +190,9 @@ font-size: 28px;
     font-weight: 900;
     color: inherit;
 }
-.edu-bg h2{
+.edu-bg .about-section h2{
     font-family: "Lato", helvetica, sans-serif;
-    font-size: 28px;
+    font-size: 25px;
     line-height: 1.463rem;
     font-weight: 900;
 }
