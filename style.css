@@ -17,8 +17,8 @@ html{
     font-size: 16px;
 }
 h2 {
-    text-align: center;
-font-size: 30px;
+text-align: center;
+font-size: 28px;
 }
 .edu-bg img {
     width: 350px;
@@ -55,7 +55,6 @@ font-size: 30px;
     font-size: 20px;
 }
 #about h2{
-    font-size: 35px;
     text-align: center;
 }
 #education h2 {
@@ -183,7 +182,7 @@ font-size: 30px;
 }
 .about-section h2{
     text-align: center;
-    font-size: 28px;
+    font-size: 25px;
      font-family: "Lato", helvetica, sans-serif;
     font-size: 1.125rem;
     line-height: 1.463rem;
@@ -192,8 +191,8 @@ font-size: 30px;
     color: inherit;
 }
 .edu-bg h2{
-      font-family: "Lato", helvetica, sans-serif;
-    font-size: 1.125rem;
+    font-family: "Lato", helvetica, sans-serif;
+    font-size: 28px;
     line-height: 1.463rem;
     font-weight: 900;
 }
