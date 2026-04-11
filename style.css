@@ -18,7 +18,6 @@ html{
 }
 h2 {
 text-align: center;
-font-size: 28px;
 }
 .edu-bg img {
     width: 350px;
@@ -54,19 +53,11 @@ font-size: 28px;
     background-attachment: fixed;
     font-size: 20px;
 }
-#about h2{
-    text-align: center;
-}
-#education h2 {
-   font-size: 35px;
-   text-align: center;
-}
 .edu-bg img {
     width: 700px;
     height: 400px;
     align-items: center;
     margin-left: 30px;
-}
 }
 .nav-bar{
   background: #14274d;
@@ -181,16 +172,13 @@ font-size: 28px;
 
 }
 .about-section h2{
-    text-align: center;
     font-size: 25px;
-     font-family: "Lato", helvetica, sans-serif;
-    font-size: 1.125rem;
+    font-family: "Lato", helvetica, sans-serif;
     line-height: 1.463rem;
-    font-weight: 400;
     font-weight: 900;
     color: inherit;
 }
-.edu-bg .about-section h2{
+.edu-bg h2{
     font-family: "Lato", helvetica, sans-serif;
     font-size: 25px;
     line-height: 1.463rem;
