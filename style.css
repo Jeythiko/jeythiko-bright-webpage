@@ -238,5 +238,20 @@ background: linear-gradient(135deg, #030514, #0a181d, #031f2b);
     margin-right: 20px;
     box-shadow: #1f3449 0px 4px 8px;
     border-color: #363c42;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    max-width: 700px;
 }
-
+.edu-bg{
+    animation: fadeIn 1s ease-in;
+}
+@keyframes fadein {
+    from {
+        opacity: 0;
+        transform: translateY(2opx);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
