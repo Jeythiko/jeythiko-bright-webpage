@@ -34,7 +34,7 @@ html{
 .cs-class {
     height: 300px;
 }
-.about-section p{
+#about-section p{
     font-size: 16px
     }
 }
@@ -75,7 +75,7 @@ html{
     align-items: center;
     margin-left: 30px;
 }
-.cs-class {
+#cs-class {
     height: 370px;
 }
 }
