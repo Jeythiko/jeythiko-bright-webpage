@@ -31,6 +31,9 @@ html{
     align-items: center;
     margin-left: 30px;
 }
+.cs-class{
+    height: 300px;
+}
 .about-section p{
     font-size: 16px
     }
@@ -72,6 +75,8 @@ html{
     align-items: center;
     margin-left: 30px;
 }
+.cs-class{
+    height: 370px;
 }
 .nav-bar{
   background: #14274d;
