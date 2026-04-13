@@ -31,8 +31,8 @@ html{
     align-items: center;
     margin-left: 30px;
 }
-.cs-class {
-    height: 300px;
+#cs-class img {
+    height: 320px;
 }
 #about-section p{
     font-size: 16px
@@ -75,7 +75,6 @@ html{
     align-items: center;
     margin-left: 30px;
 }
-
 }
 .nav-bar{
   background: #14274d;
