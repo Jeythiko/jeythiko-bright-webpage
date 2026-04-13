@@ -31,7 +31,7 @@ html{
     align-items: center;
     margin-left: 30px;
 }
-.cs-class{
+.cs-class img{
     height: 300px;
 }
 .about-section p{
@@ -61,7 +61,7 @@ html{
     background-attachment: fixed;
     font-size: 20px;
 }
-#about h2{
+#about h2 {
     font-size: 35px;
     text-align: center;
 }
@@ -75,7 +75,7 @@ html{
     align-items: center;
     margin-left: 30px;
 }
-.cs-class{
+.cs-class img {
     height: 370px;
 }
 .nav-bar{
